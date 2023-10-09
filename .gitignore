@@ -18,6 +18,7 @@ bluej.pkh
 *.log
 
 # BlueJ files
+.bluej
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
